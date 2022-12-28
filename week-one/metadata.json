@@ -1,0 +1,28 @@
+{
+  "description": "This NFT proves I've created and deployed my first ER721 smart contract on Goerli with Alchemy Road to Web3",
+  "external_url": "Alchemy.com/?a=roadtoweb3weekone",
+  "image": "https://ipfs.filebase.io/ipfs/QmT7Lw66WsDwRUtkGxZzRL8PszqHn8n8Vq5Jjn6y7W8wrR",
+  "name": "The Feelings Wheel",
+  "attributes": [
+    {
+      "trait_type": "Feeling1",
+      "value": "Proud"
+    },
+    {
+      "trait_type": "Feeling2",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Feeling3",
+      "value": "Intrigued"
+    },
+    {
+      "trait_type": "Feeling4",
+      "value": "Trusting"
+    },
+    {
+      "trait_type": "Feeling5",
+      "value": "Loving"
+    }
+]
+}
